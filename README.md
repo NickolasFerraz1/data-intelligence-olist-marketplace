@@ -2,7 +2,7 @@
 
 Este projeto consiste em uma **Análise Exploratória de Dados (EDA)** profunda no dataset da Olist (maior marketplace do Brasi). O objetivo foi transformar dados brutos em inteligência logística, financeira e estratégica para otimizar a operação e entender o comportamento de consumo.
 
-[![Kaggle](https://img.shields.io/badge/Kaggle-Dataset-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Dataset-blue?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 
 ---
 
